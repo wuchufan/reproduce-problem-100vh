@@ -8,31 +8,31 @@
   text-align: center;
 
   width:100%;
-  height:20vh;
-  background-color: red
+  /* height:20vh; */
+  background-color: red;
 }
 .item-2{
   text-align: center;
   width:100%;
-  height:20vh;
-  background-color: grey
+  /* height:20vh; */
+  background-color: grey;
 }
 .item-3{
   color: white;
   text-align: center;
   width:100%;
-  height:20vh;
-  background-color: black
+  /* height:20vh; */
+  background-color: black;
 }
 .item-4{
   text-align: center;
   width:100%;
-  height:20vh;
-  background-color: green
+  /* height:20vh; */
+  background-color: green;
 }
 .item-5{
   text-align: center;
   width:100%;
-  height:20vh;
-  background-color: yellow
+  /* height:20vh; */
+  background-color: yellow;
 }
